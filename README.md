@@ -1,4 +1,4 @@
-# Series 2:  Tutorials on building a Multi-Step Wizard using UI-Router 1.0 with Angular 1.5+ component-based architecture
+#  Tutorial Como crear Un menu de instalacion con Multi-Step Wizard usando UI-Router 1.0 con Angular 1.5+ componentes base de la arquitectura
 
 #### [Demo site](http://multi-step-wizard.azurewebsites.net/series-2/#/form/personal)
 
